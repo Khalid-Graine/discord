@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Osmanya&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+.countainer {
+  @apply px-4;
+}
+.list {
+  @apply my-2 font-medium hover:cursor-pointer hover:font-semibold hover:underline;
+}
+.padding {
+  @apply py-20;
+}
