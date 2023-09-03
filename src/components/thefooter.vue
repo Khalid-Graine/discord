@@ -43,7 +43,7 @@
 
     <hr class="mb-4 mt-8 border-primary" />
     <div class="flex justify-between">
-      <img src="src/assets/images/logo.svg" alt="" />
+      <img src="../assets/images/logo.svg" alt="" />
       <button
         class="cursor-pointer rounded-full bg-white px-3 py-1 text-black hover:bg-gray-100"
       >
