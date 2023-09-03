@@ -1,15 +1,7 @@
 <template>
   <footer class="countainer bg-secondary pb-4 pt-primary">
     <div class="flex flex-col gap-10 text-white md:flex-row md:gap-40">
-      <div>
-        <div class="flex gap-2">
-          <img src="src/assets/images/usa.png" class="w-7" alt="" />
-          <div class="flex items-center gap-1 text-lg">
-           <p>english</p>
-            <i class="fa-solid fa-angle-down text-sm"></i>
-          </div>
-        </div>
-      </div>
+     
       <div class="grid flex-grow grid-cols-4 gap-8">
         <ul class="col-span-2 lg:col-span-1">
           <li class="mb-2 text-lg font-semibold text-blue-500">Products</li>
