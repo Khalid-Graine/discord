@@ -113,7 +113,7 @@
     <card
       title="Create an invite-only place where you belong"
       text="Discord servers are organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat."
-      path="src/assets/images/item1.svg"
+      path="/images/item1.svg"
       :changeOrder="false"
     />
   </div>
@@ -122,7 +122,7 @@
     <card
       title="Where hanging out is easy"
       text="Grab a seat in a voice channel when you’re free. Friends in your server can see you’re around and instantly pop in to talk without having to call."
-      path="src/assets/images/item3.svg"
+      path="/images/item2.svg"
       :changeOrder="true"
     />
   </div>
@@ -131,9 +131,11 @@
     <card
       title="From few to a fandom"
       text="Get any community running with moderation tools and custom member access. Give members special powers, set up private channels, and more."
-      path="src/assets/images/item2.svg"
+      path="/images/item4.svg"
+      
       :changeOrder="false"
     />
+    
   </div>
 
   <div class="countainer bg-[#f6f6f6] py-primary">
@@ -148,7 +150,7 @@
           have a drawing session with screen share.
         </p>
       </div>
-      <img src="./assets/images/item4-big.svg" alt="" />
+      <img src="/images/item4-big.svg" alt="" />
       <div class="hover: flex flex-col items-center gap-3">
         <p>Ready to start your journey?</p>
         <button

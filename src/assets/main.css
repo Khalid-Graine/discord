@@ -8,7 +8,7 @@ body {
   overflow-x: hidden;
 }
 .countainer {
-  @apply px-4;
+  @apply px-8;
 }
 .list {
   @apply my-2 font-medium hover:cursor-pointer hover:font-semibold hover:underline;

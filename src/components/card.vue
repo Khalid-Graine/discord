@@ -22,6 +22,8 @@ defineProps({
       :class="[changeOrder ? 'order-first' : ' order-last']"
     >
       <img :src="path" alt="" />
+     <!-- <img src="/images/item1.svg" alt=""> -->
+      
     </div>
     <div class="py-6 md:w-4/12">
       <div class="text-center text-2xl font-extrabold md:mb-6 md:text-4xl">
